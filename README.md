@@ -22,3 +22,4 @@ Projeto sendo desenvolvido através do bootcamp **Universo Cypress**, onde estam
 
 - Yarn
 - API REST
+- SQL
