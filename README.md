@@ -18,16 +18,14 @@ Através do Cypress, fizemos a automação de testes no website da plataforma, u
 - Fixtures
 - Factories
 - Expressões Regulares (Regex)
+- Banco de dados em nuvem (ElephantSQL)
 
-### Ferramentas utilizadas
+### Pré-requisitos
+
+Para rodar os testes, é necessário termos instaladas as ferramentas:
 
 - Cypress
-- Visual Studio Code
-- Insomnia
-- Hyper
-
-### Tecnologias utilizadas
-
+- Node.js
 - Yarn
-- API REST
-- SQL
+- Insomnia
+- Hyper*
