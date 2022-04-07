@@ -20,6 +20,17 @@ Através do Cypress, fizemos a automação de testes no website da plataforma, u
 - Expressões Regulares (Regex)
 - Banco de dados em nuvem (ElephantSQL)
 
+### Conceitos de testes abordados
+
+- Teste de Unidade
+- Teste de Componentes
+- Teste de Integração
+- Teste de Regressão
+- Teste de Sistema
+- Teste de Funcionalidade
+- Teste de Desempenho
+- Cenários de Testes
+
 ### Pré-requisitos
 
 Para fazermos a execução, é necessário termos instaladas as ferramentas:
