@@ -22,7 +22,7 @@ Através do Cypress, fizemos a automação de testes no website da plataforma, u
 
 ### Pré-requisitos
 
-Para rodar os testes, é necessário termos instaladas as ferramentas:
+Para fazermos a execução, é necessário termos instaladas as ferramentas:
 
 - Cypress
 - Node.js
