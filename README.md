@@ -26,6 +26,6 @@ Para fazermos a execução, é necessário termos instaladas as ferramentas:
 
 - Cypress
 - Node.js
-- Yarn
+- Yarn*
 - Insomnia
 - Hyper*
