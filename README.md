@@ -10,7 +10,7 @@ O Samurai Barbershop é um sistema que simula uma barbearia real, onde o cliente
 
 Através do Cypress, fizemos a automação de testes no website da plataforma, utilizamos também a ferramenta Insomnia para testar as requisições HTTP no intuito de simular uma solicitação feita pelo app do Samurai Barbershop, já que o Cypress não da suporte para mobile.
 
-## Conceitos abordados
+### Conceitos abordados
 
 - Testes Ponta a Ponta (E2E)
 - Page Object Model (POM)
@@ -19,14 +19,14 @@ Através do Cypress, fizemos a automação de testes no website da plataforma, u
 - Factories
 - Expressões Regulares (Regex)
 
-## Ferramentas utilizadas
+### Ferramentas utilizadas
 
 - Cypress
 - Visual Studio Code
 - Insomnia
 - Hyper
 
-## Tecnologias utilizadas
+### Tecnologias utilizadas
 
 - Yarn
 - API REST
