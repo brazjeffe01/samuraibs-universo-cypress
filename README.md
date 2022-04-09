@@ -17,6 +17,7 @@ Através do Cypress, fizemos a automação de testes no website da plataforma, u
 - Continous Testing
 - Fixtures
 - Factories
+- App Actions
 - Expressões Regulares (Regex)
 - Banco de dados em nuvem (ElephantSQL)
 
