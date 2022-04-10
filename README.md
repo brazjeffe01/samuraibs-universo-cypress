@@ -18,6 +18,7 @@ Através do Cypress, fizemos a automação de testes no website da plataforma, u
 - Fixtures
 - Factories
 - App Actions
+- Manipuçação do Local Storage
 - Expressões Regulares (Regex)
 - Banco de dados em nuvem (ElephantSQL)
 
