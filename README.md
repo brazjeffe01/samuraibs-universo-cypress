@@ -33,12 +33,6 @@ Através do Cypress, fizemos a automação de testes no website da plataforma, u
 - Teste de Desempenho
 - Cenários de Testes
 
-### Pré-requisitos
+### Observações
 
-Para fazermos a execução, é necessário termos instaladas as ferramentas:
-
-- Cypress
-- Node.js
-- Yarn*
-- Insomnia
-- Hyper*
+Testes disponíveis através da aba **Actions** em 3 workflows(Chrome, Electron e Firefox)
