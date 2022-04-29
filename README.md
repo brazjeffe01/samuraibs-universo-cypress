@@ -6,6 +6,8 @@ Projeto sendo desenvolvido através do bootcamp **Universo Cypress**, onde estam
 
 O Samurai Barbershop é um sistema que simula uma barbearia real, onde o cliente ou barbeiro (chamado de samurai), consegue se cadastrar no sistema, como cliente, conseguimos agendar um dia e horário com um dos barbeiros disponíveis, e como barbeiro, conseguimos verificar se existe algum agendamento foi pelos clientes.
 
+Link para acesso ao site: **https://samuraibs-web-brazjeffe.herokuapp.com**
+
 ### Como funcionam os testes
 
 Através do Cypress, fizemos a automação de testes no website da plataforma, utilizamos também a ferramenta Insomnia para testar as requisições HTTP no intuito de simular uma solicitação feita pelo app do Samurai Barbershop, já que o Cypress não da suporte para mobile.
