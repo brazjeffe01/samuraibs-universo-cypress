@@ -26,13 +26,11 @@ Através do Cypress, fizemos a automação de testes no website da plataforma, u
 
 ### Conceitos de testes abordados
 
-- Teste de Unidade
 - Teste de Componentes
 - Teste de Integração
 - Teste de Regressão
 - Teste de Sistema
 - Teste de Funcionalidade
-- Teste de Desempenho
 - Cenários de Testes
 
 ### Observações
